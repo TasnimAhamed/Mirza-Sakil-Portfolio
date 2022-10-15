@@ -1053,7 +1053,7 @@ a.brand:focus{
 
 #pp-nav li .active span, .pp-slidesNav .active span{
   opacity: 1;
-  background: #c32865;
+  background: #c32865!important;
   transform:scale(1.6);
 }
 
