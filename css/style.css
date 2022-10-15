@@ -1043,7 +1043,7 @@ a.brand:focus{
 }
 
 #pp-nav.white span, .pp-slidesNav span{
-  background: #fff;
+  background: #ffffff!important;
 }
 
 #pp-nav li .active span, .pp-slidesNav .active span,
@@ -2338,4 +2338,7 @@ a.brand:focus{
 .portfolio--items h3,
 .portfolio--items p{
   margin-bottom: 0!important;
+}
+.portfolio--items p{
+  font-size:20px;
 }
