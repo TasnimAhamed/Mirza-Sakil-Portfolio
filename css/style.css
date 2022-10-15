@@ -2322,16 +2322,20 @@ a.brand:focus{
 }
 
 #team-circle-right {
-  top: 25%;
+  top: 20%;
   right: -10%;
   transition: .5s ease;
   position: absolute;
 }
 
 #team-circle-left{
-  top: 25%;
+  top: 20%;
   left: -10%;
   transition: .5s ease;
   position: absolute;
 }
 
+.portfolio--items h3,
+.portfolio--items p{
+  margin-bottom: 0!important;
+}
